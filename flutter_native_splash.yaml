@@ -1,9 +1,9 @@
 flutter_native_splash:
   color: "#D5D58D"
-  image: assets/images/book_logo.png 
+  image: assets/images/logo_for_android12.png
 
-  # android_12:
-  #   image: assets/logo-development.png
-  #   icon_background_color: "#ffffff"
-  #   image_dark: assets/logo-development.png
-  #   icon_background_color_dark: "#121212"
+  android_12:
+    image: assets/images/logo_for_android12.png
+    icon_background_color: "#D5D58D"
+    
+  
