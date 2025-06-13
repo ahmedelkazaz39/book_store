@@ -13,4 +13,19 @@ class TextStyles {
     color: ColorManager.lightSecondaryColor,
     fontWeight: FontWeight.w700,
   );
+  static TextStyle font16LightSecondary700Wieght = TextStyle(
+    fontSize: 16.sp,
+    color: ColorManager.lightSecondaryColor,
+    fontWeight: FontWeight.w700,
+  );
+  static TextStyle font16Primary700Wieght = TextStyle(
+    fontSize: 16.sp,
+    color: ColorManager.primaryColor,
+    fontWeight: FontWeight.w700,
+  );
+  static TextStyle font30LightSecondary700Wieght = TextStyle(
+    fontSize: 30.sp,
+    color: ColorManager.lightSecondaryColor,
+    fontWeight: FontWeight.w700,
+  );
 }

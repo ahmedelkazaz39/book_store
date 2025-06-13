@@ -11,7 +11,7 @@ class OnboardingTextButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return TextButton(
       onPressed: () {
-        context.pushReplacementNamed('/loginScreen');
+        context.pushReplacementNamed('/authOnboardingScreen');
       },
       child: Container(
         width: double.infinity,
